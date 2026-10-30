@@ -1,0 +1,6 @@
+name=Garet on Olev
+bundle=anuvix.garetonolev.hubapp
+organization=ANUVIX LTD.
+alias=key
+pwd=zuTbBaMq59mPunKhzqLb
+key-pwd=zuTbBaMq59mPunKhzqLb
